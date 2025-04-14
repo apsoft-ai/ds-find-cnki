@@ -46,7 +46,7 @@ function 部署浏览框(){
 	浏览框5.置可视(false);
 	浏览框1.跳转("https://apsoft-ai.github.io/dsson/index.html");
 	浏览框2.跳转("https://mfindsdnu.libsp.cn/#/Home");
-	浏览框3.跳转("https://apsoft-ai.github.io/dsson-cnki/index.html");
+	浏览框3.跳转("https://apsoft-ai.github.io/ds-cnki/index.html");
 	浏览框4.跳转("https://www.cnki.net");
 	浏览框5.跳转("https://apsoft-ai.github.io/ds-find-cnki/about.html");
 }
